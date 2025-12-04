@@ -7,6 +7,7 @@ public class InputHelper {
         boolean valid = false;
         int userInput = 0;
 
+
         System.out.println(prompt);
         do {
 
